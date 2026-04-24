@@ -1,0 +1,1 @@
+# [ image file ] --imread--> [ pixel data in memory ] --imwrite--> [ new file ]
