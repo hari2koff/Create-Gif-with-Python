@@ -21,7 +21,7 @@ def create_gif():
 
     # Save as Gif by using the .imwrite method (which writes the stored pixel memory into file )    
 
-    iio.imwrite('Genatrated.gif', images, duration = 500, loop = 0)   
+    iio.imwrite('Generated.gif', images, duration = 500, loop = 0)   
 
 
 create_gif()
